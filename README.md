@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Nick Dubois
 
-<!--
-**nickd0216/nickd0216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a sophomore at Lehigh University pursuing a degree in **Computer Science and Business (CSB)**. I'm passionate about using technology to solve real-world problems, particularly at the intersection of software engineering, business strategy, and cybersecurity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 CSB student at Lehigh University, Class of 2027
+- 💼 Incoming software engineering intern (Summer 2025)
+- 🧠 Interests: Tech consulting, cybersecurity, and blockchain applications
+- 🌍 Participating in the **CSB in Barcelona** program this summer
+- 📊 VP of Finance at Delta Upsilon Fraternity | Rossin Junior Fellow
+- 🧰 Skills: Python, C, Java, JavaScript, SQL, Git, React, Pandas, Excel
+
+---
+
+## 📂 Featured Projects
+
+Here are some of the things I’ve been working on:
+
+- 🔐 **SecureDoc** — A blockchain-based document verification system for preventing fraud
+- ⚡ **2D FFT Optimizer** — Performance-tuned FFT implementation using loop unrolling and code motion (C)
+- 🛠️ **Driveway Resealing Booking App** — End-to-end service scheduler for a local business (React + Firebase)
+
+> Check out more in my pinned repositories below 👇
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: [nick.dubois@example.com](mailto:nick.dubois@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nickdubois/)
+- 📝 [Resume](https://example.com/resume.pdf) *(optional if you have it online)*
+
+---
+
+Thanks for stopping by!
