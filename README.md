@@ -29,9 +29,8 @@ Here are some of the things I’ve been working on:
 
 ## 🌐 Connect With Me
 
-- 📧 Email: [nick.dubois@example.com](mailto:nick.dubois@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nickdubois/)
-- 📝 [Resume](https://example.com/resume.pdf) *(optional if you have it online)*
+- 📧 Email: [nickd0216@gmail.com](mailto:nickd0216@gmail.com)
+- 💼 [LinkedIn](linkedin.com/in/nickjdubois)
 
 ---
 
