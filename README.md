@@ -19,14 +19,9 @@ Welcome to my GitHub! I'm a sophomore at Lehigh University pursuing a degree in 
 
 Here are some of the things I’ve been working on:
 
-- 🔐 **SecureDoc** — A blockchain-based document verification system for preventing fraud
-- ⚡ **2D FFT Optimizer** — Performance-tuned FFT implementation using loop unrolling and code motion (C)
-- 🛠️ **Driveway Resealing Booking App** — End-to-end service scheduler for a local business (React + Firebase)
-
-> Check out more in my pinned repositories below 👇
-
----
-
+- 🔐 **Stock Market Predictor** - Tool using market analitics principles to predict future stock values
+- ⚡ **Strong Password Generator** — Chrome extension that will generate a strong password of any chosen length with one click
+- 
 ## 🌐 Connect With Me
 
 - 📧 Email: [nickd0216@gmail.com](mailto:nickd0216@gmail.com)
