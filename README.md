@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a sophomore at Lehigh University pursuing a degree in 
 - 🧠 Interests: Tech consulting, cybersecurity, and blockchain applications
 - 🌍 Participating in the **CSB in Barcelona** program this summer
 - 📊 VP of Finance at Delta Upsilon Fraternity | Rossin Junior Fellow
-- 🧰 Skills: Python, C, Java, JavaScript, SQL, Git, React, Pandas, Excel
+- 🧰 Skills: Python, C, C++, Java, Git, Pandas, Excel
 
 ---
 
