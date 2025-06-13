@@ -19,9 +19,11 @@ Welcome to my GitHub! I'm a sophomore at Lehigh University pursuing a degree in 
 
 Here are some of the things I’ve been working on:
 
-- 🔐 **Stock Market Predictor** - Tool using market analitics principles to predict future stock values
+- 🔐 **Stock Market Predictor** - Tool using market analitics principles and machine learning to predict future stock values
+    - (https://github.com/nickd0216/Machine-Learning-Stock-Predictor)
 - ⚡ **Strong Password Generator** — Chrome extension that will generate a strong password of any chosen length with one click
-- 
+    - (https://github.com/nickd0216/Simple-Password-generator-extenstion)
+  
 ## 🌐 Connect With Me
 
 - 📧 Email: [nickd0216@gmail.com](mailto:nickd0216@gmail.com)
