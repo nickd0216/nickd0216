@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a sophomore at Lehigh University pursuing a degree in 
 ## 🚀 About Me
 
 - 🎓 CSB student at Lehigh University, Class of 2027
-- 💼 Incoming software engineering intern (Summer 2025)
+- 💼 Software engineering intern
 - 🧠 Interests: Tech consulting, cybersecurity, and emerging technology
 - 🌍 Participating in the **CSB in Barcelona** program this summer
 - 📊 VP of Finance at Delta Upsilon Fraternity | Rossin Junior Fellow
