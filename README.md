@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Nick Dubois
 
-Welcome to my GitHub! I'm a sophomore at Lehigh University pursuing a degree in **Computer Science and Business (CSB)**. I'm passionate about using technology to solve real-world problems, particularly at the intersection of software engineering, business strategy, and cybersecurity.
+Welcome to my GitHub! I'm a Junior at Lehigh University pursuing a degree in **Computer Science and Business (CSB)**. I'm passionate about using technology to solve real-world problems, particularly at the intersection of software engineering, business strategy, and cybersecurity.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 CSB student at Lehigh University, Class of 2027
-- 💼 Software engineering intern
+- 💼 Digital Consulting and Product Management Intern
 - 🧠 Interests: Tech consulting, cybersecurity, and emerging technology
-- 🌍 Participating in the **CSB in Barcelona** program this summer
+- 🌍 Participated in the **CSB in Barcelona** program this summer
 - 📊 VP of Finance at Delta Upsilon Fraternity | Rossin Junior Fellow
 - 🧰 Skills: Python, C, C++, Java, Git, Pandas, Excel
 
